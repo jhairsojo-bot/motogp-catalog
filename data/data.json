@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ducati Desmosedici GP26",
+    "equipo": "Ducati Lenovo Team",
+    "marca": "Ducati",
+    "anio": 2026,
+    "velocidadMaxima": 356,
+    "imagen": "images/ducati-lenovo-gp26.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Ducati Desmosedici GP26",
+    "equipo": "Gresini Racing",
+    "marca": "Ducati",
+    "anio": 2026,
+    "velocidadMaxima": 354,
+    "imagen": "images/gresini-gp26.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Ducati Desmosedici GP26",
+    "equipo": "VR46 Racing Team",
+    "marca": "Ducati",
+    "anio": 2026,
+    "velocidadMaxima": 354,
+    "imagen": "images/vr46-gp26.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Yamaha YZR-M1",
+    "equipo": "Monster Energy Yamaha",
+    "marca": "Yamaha",
+    "anio": 2026,
+    "velocidadMaxima": 348,
+    "imagen": "images/monster-yamaha-m1.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Yamaha YZR-M1",
+    "equipo": "Prima Pramac Racing",
+    "marca": "Yamaha",
+    "anio": 2026,
+    "velocidadMaxima": 347,
+    "imagen": "images/pramac-yamaha-m1.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Honda RC213V",
+    "equipo": "Repsol Honda",
+    "marca": "Honda",
+    "anio": 2026,
+    "velocidadMaxima": 346,
+    "imagen": "images/repsol-honda-rc213v.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Honda RC213V",
+    "equipo": "LCR Honda",
+    "marca": "Honda",
+    "anio": 2026,
+    "velocidadMaxima": 345,
+    "imagen": "images/lcr-honda-rc213v.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "KTM RC16",
+    "equipo": "Red Bull KTM Factory",
+    "marca": "KTM",
+    "anio": 2026,
+    "velocidadMaxima": 350,
+    "imagen": "images/redbull-ktm-rc16.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "KTM RC16",
+    "equipo": "KTM Tech3",
+    "marca": "KTM",
+    "anio": 2026,
+    "velocidadMaxima": 349,
+    "imagen": "images/tech3-ktm-rc16.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Aprilia RS-GP",
+    "equipo": "Aprilia Racing",
+    "marca": "Aprilia",
+    "anio": 2026,
+    "velocidadMaxima": 352,
+    "imagen": "images/aprilia-racing-rsgp.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Aprilia RS-GP",
+    "equipo": "Trackhouse Racing",
+    "marca": "Aprilia",
+    "anio": 2026,
+    "velocidadMaxima": 351,
+    "imagen": "images/trackhouse-rsgp.jpg"
+  }
+]
