@@ -130,25 +130,30 @@ export function renderError(mensaje) {
 function crearFeatures() {
   return `
     <section class="section" id="features">
-      <span class="eyebrow">Features</span>
-      <h2 class="section-title">Funciones del proyecto</h2>
+      <span class="eyebrow">Innovación 2026</span>
+      <h2 class="section-title">Explora la Nueva Era</h2>
       <p class="section-intro">
-        La aplicacion mantiene una arquitectura simple, separa responsabilidades y usa algoritmos
-        visibles para practicar conceptos de clase.
+        Este prototipo utiliza tecnologías web modernas para ofrecerte un análisis detallado 
+        de los cambios técnicos y aerodinámicos de la próxima temporada.
       </p>
 
       <div class="features-grid">
         <article class="feature-card">
-          <h3>SPA sin recarga</h3>
-          <p>La navegacion usa hash routes y JavaScript para cambiar la vista mostrada.</p>
+          <div class="feature-icon"></div>
+          <h3>Experiencia Fluida</h3>
+          <p>Navegación instantánea entre escuderías mediante arquitectura SPA, permitiendo comparar datos sin tiempos de espera.</p>
         </article>
+        
         <article class="feature-card">
-          <h3>Datos externos</h3>
-          <p>El catalogo se carga desde data.json usando fetch con async/await.</p>
+          <div class="feature-icon">📊</div>
+          <h3>Datos de Ingeniería</h3>
+          <p>Fichas técnicas dinámicas cargadas en tiempo real para visualizar la potencia y aerodinámica de cada prototipo.</p>
         </article>
+        
         <article class="feature-card">
-          <h3>Busqueda y orden</h3>
-          <p>Incluye busqueda lineal y burbuja para ordenar por año o velocidad.</p>
+          <div class="feature-icon">🔍</div>
+          <h3>Análisis Comparativo</h3>
+          <p>Utiliza algoritmos de ordenamiento para clasificar las motos por velocidad punta o año de evolución técnica.</p>
         </article>
       </div>
     </section>
